@@ -11,3 +11,5 @@ export * from './lib/logger/logger.service';
 export * from './lib/interceptor/interceptor.message.service';
 export * from './lib/interceptor/token-interceptor';
 export * from './lib/cache/http-cache-service';
+export * from './lib/date-parser/date-format-helper';
+export * from './lib/excel-parser/xlsx-excel-parser';
